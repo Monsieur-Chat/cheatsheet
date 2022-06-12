@@ -1,4 +1,4 @@
-# Hydraa
+# Hydra
 
 | **Command**   | **Description**   |
 | --------------|-------------------|
